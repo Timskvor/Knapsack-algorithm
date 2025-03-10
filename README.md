@@ -32,5 +32,5 @@ This repository contains the results of three different Knapsack algorithms:
 
 Below is a graphical comparison of execution times (log scale) for each algorithm:
 
-![Time Comparison](knapsack_time_comparison_sorted.png)
+![Time Comparison](Knapsack_Time_Comparison.png)
 
